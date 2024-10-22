@@ -1,0 +1,53 @@
+[
+    {
+      "id": 1,
+      "cover": "https://i.ibb.co.com/SvwjZNK/toy-bricks-table-with-word-my-blog.jpg",
+      "title": "The Future of AI",
+      "author": "John Doe",
+      "author_image": "https://i.ibb.co.com/3d7BP7S/concentrated-young-caucasian-businessman.jpg",
+      "posted_date": "2024-10-21",
+      "reading_time": 5 ,
+      "hashtags": ["#AI", "#technology", "#future"]
+    },
+    {
+      "id": 2,
+      "cover": "https://i.ibb.co.com/SvwjZNK/toy-bricks-table-with-word-my-blog.jpg",
+      "title": "Exploring Space: The Next Frontier",
+      "author": "Jane Smith",
+      "author_image": "https://i.ibb.co.com/3d7BP7S/concentrated-young-caucasian-businessman.jpg",
+      "posted_date": "2024-09-15",
+      "reading_time": 8 ,
+      "hashtags": ["#space", "#science", "#exploration"]
+    },
+    {
+      "id": 3,
+      "cover": "https://i.ibb.co.com/SvwjZNK/toy-bricks-table-with-word-my-blog.jpg",
+      "title": "Sustainable Living: Tips for a Greener Future",
+      "author": "Michael Green",
+      "author_image": "https://i.ibb.co.com/3d7BP7S/concentrated-young-caucasian-businessman.jpg",
+      "posted_date": "2024-08-30",
+      "reading_time": 6,
+      "hashtags": ["#sustainability", "#environment", "#greenliving"]
+    },
+    {
+      "id": 4,
+      "cover": "https://i.ibb.co.com/SvwjZNK/toy-bricks-table-with-word-my-blog.jpg",
+      "title": "Mastering the Art of Productivity",
+      "author": "Emily White",
+      "author_image": "https://i.ibb.co.com/3d7BP7S/concentrated-young-caucasian-businessman.jpg",
+      "posted_date": "2024-07-20",
+      "reading_time": 4 ,
+      "hashtags": ["#productivity", "#selfimprovement", "#success"]
+    },
+    {
+      "id": 5,
+      "cover": "https://i.ibb.co.com/SvwjZNK/toy-bricks-table-with-word-my-blog.jpg",
+      "title": "The Evolution of Digital Marketing",
+      "author": "David Black",
+      "author_image": "https://i.ibb.co.com/3d7BP7S/concentrated-young-caucasian-businessman.jpg",
+      "posted_date": "2024-06-10",
+      "reading_time": 7 ,
+      "hashtags": ["#digitalmarketing", "#business", "#innovation"]
+    }
+  ]
+  
